@@ -1,2 +1,3 @@
-# robofriends
-# to see this robofriends react app click this link https://asif-code.github.io/robofriends/
+Clone this repo
+Run npm install
+Run npm start
